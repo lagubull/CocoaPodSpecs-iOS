@@ -2,7 +2,7 @@ pod 'CoreServices', '~> 2.0'
 d::Spec.new do |s|
 
   s.name         = "CoreTools"
-  s.version      = "0.1"
+  s.version      = "0.0.1"
   s.summary      = "CoreTools contains common functionality, shared across Javier Laguna's  Apps."
 
   s.homepage     = "https://github.com/lagubull/"
