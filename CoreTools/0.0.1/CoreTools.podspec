@@ -1,5 +1,4 @@
-pod 'CoreServices', '~> 2.0'
-d::Spec.new do |s|
+Pod::Spec.new do |s|
 
   s.name         = "CoreTools"
   s.version      = "0.0.1"
